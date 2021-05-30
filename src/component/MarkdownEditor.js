@@ -19,9 +19,9 @@ class MarkdownEditor extends React.Component {
 }
 \`\`\`
 
--List Test 1
--List Test 2
--List Test 3
+- List Test 1
+- List Test 2
+- List Test 3
 
 ~~~
 This is a block code 
